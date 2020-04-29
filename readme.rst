@@ -1,5 +1,4 @@
-![Screenshot](Screenshot1.png)
-
+![Screenshot1](https://user-images.githubusercontent.com/23663225/80583348-46df5880-8a3a-11ea-995a-ea7d12c8d4c8.png)
 ###################
 What is CodeIgniter
 ###################
